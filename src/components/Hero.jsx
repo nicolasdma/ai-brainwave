@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import Section from "./Section";
-import { curve, heroBackground, robot } from "../assets";
+import { curve, heroBackground, robot } from "../../public/assets";
 import Button from "./Button";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
 import { heroIcons } from "../constants";
