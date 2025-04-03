@@ -1,8 +1,8 @@
 import { useLocation } from "react-router-dom";
-import { brainwave } from "../../public/assets";
+import { brainwave } from "../assets";
 import { navigation } from "../constants";
 import Button from "./Button";
-import MenuSVG from "../../public/assets/svg/MenuSVG";
+import MenuSVG from "../assets/svg/MenuSVG";
 import { HamburgerMenu } from "./design/Header";
 import { useState } from "react";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
